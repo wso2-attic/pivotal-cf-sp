@@ -1,1 +1,1 @@
-# pivotal-cf-sp
+# [DEPRECATED] pivotal-cf-sp
